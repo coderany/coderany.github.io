@@ -3,7 +3,7 @@ description:      Father of Malkov Roman, Husband of Malkova Olga, Russian, Java
 logo:             omikron.png
 disqus_shortname: olegmalkov
 # Assign a default image for your site's header and footer
-default_bg:       main_bg.jpg
+default_bg:       mainbg.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
