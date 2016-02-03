@@ -1,18 +1,18 @@
-----
- -layout: post
- -title: Спасибо, Наталья
- -description: "Словами не передать это чувство благодарности, но все же я попробую, хотя бы часть..."
- -headline: "Благодарность пробуждает..."
- -categories: personal
- -tags: 
- -  - qigong
- -  - цигун
- -comments: true
- -mathjax: null
- -imagefeature: qugong-bg.jpg
- -featured: true
- -published: true
- ----
+---
+layout: post
+title: Спасибо, Наталья
+description: "Словами не передать это чувство благодарности, но все же я попробую, хотя бы часть..."
+headline: "Благодарность пробуждает..."
+categories: personal
+tags: 
+  - qigong
+  - цигун
+comments: true
+mathjax: null
+imagefeature: qugong-bg.jpg
+featured: true
+published: true
+---
 
 *На эту страницу вы скорее всего попали потому что искали Анну Владимирову. Я пригласил Вас сюда для того, чтобы рассказать о том, где можно найти всё то, что вы ищите, только лучше и к тому же гораздо дешевле!*
 
